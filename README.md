@@ -13,13 +13,13 @@ Proiectul include scripturi pentru **preprocesarea datelor (DICOM → PNG)**, **
 
 ## 📂 Structura proiectului
 Deep-Learning-for-Sarcopenia-Detection-via-L3-Vertebra-Analysis/
-├── dicom_to_png_converter.py # Conversie DICOM → PNG
-├── l3_y3_detector_anatomic.py # Detectare vertebra L3
-├── futuristic_y3_gui_optimized.py # Interfața grafică
-├── data/ # Directorul de date (creat de utilizator)
-│ └── images/ # Aici se vor stoca imaginile PNG convertite
-├── examples/ # Exemple de rezultate sau imagini
-├── README.md
+- dicom_to_png_converter.py # Conversie DICOM → PNG
+- l3_y3_detector_anatomic.py # Detectare vertebra L3
+- futuristic_y3_gui_optimized.py # Interfața grafică
+- data/ # Directorul de date (creat de utilizator)
+- images/ # Aici se vor stoca imaginile PNG convertite
+- examples/ # Exemple de rezultate sau imagini
+- README.md
 
 
 <img width="1919" height="1022" alt="Screenshot 2025-10-01 134119" src="https://github.com/user-attachments/assets/7fa953aa-8d42-42c3-ac95-479e699539a7" />
