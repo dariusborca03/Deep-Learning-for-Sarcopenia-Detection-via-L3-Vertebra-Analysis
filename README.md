@@ -17,8 +17,7 @@ Deep-Learning-for-Sarcopenia-Detection-via-L3-Vertebra-Analysis/
 - l3_y3_detector_anatomic.py # Detectare vertebra L3
 - futuristic_y3_gui_optimized.py # Interfața grafică
 - data/ # Directorul de date (creat de utilizator)
-- images/ # Aici se vor stoca imaginile PNG convertite
-- examples/ # Exemple de rezultate sau imagini
+  -> images/ # Aici se vor stoca imaginile PNG convertite
 - README.md
 
 
